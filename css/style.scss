@@ -1,4 +1,5 @@
 $titulos-color: #005677;
+$fondotitulos-color: #C4C4C4;
 
 header{
     img{
@@ -9,7 +10,7 @@ header{
 }
 h1, h2{
     color: $titulos-color;
-    background-color: #C4C4C4;
+    background-color: $fondotitulos-color;
 }
 h1{
     text-align: center;
