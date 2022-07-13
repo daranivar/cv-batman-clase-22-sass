@@ -1,0 +1,33 @@
+$titulos-color: #005677;
+
+header{
+    img{
+        display: flex;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+h1, h2{
+    color: $titulos-color;
+    background-color: #C4C4C4;
+}
+h1{
+    text-align: center;
+}
+.negrita{
+    font-weight: bold;
+}
+.italico{
+    font-style: italic;
+}
+.espacio{
+    text-indent: 76px;
+}
+footer{
+    background-color: $titulos-color;
+    text-align: center;
+    color: white;;
+}
+
+
+
